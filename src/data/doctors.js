@@ -1,0 +1,29 @@
+export const doctors = [
+  {
+    id: "d1",
+    name: "Dr. Karthik Raj",
+    specialty: "Cardiology",
+    experience: "12 years",
+    fee: 600,
+    image: "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?auto=format&fit=crop&w=480&q=75",
+    description: "Provides preventive cardiac care and consultation for heart-health concerns."
+  },
+  {
+    id: "d2",
+    name: "Dr. Meera Iyer",
+    specialty: "Dermatology",
+    experience: "9 years",
+    fee: 500,
+    image: "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&w=480&q=75",
+    description: "Provides general dermatology consultations and skin-health guidance."
+  },
+  {
+    id: "d3",
+    name: "Dr. Arjun Kumar",
+    specialty: "Pediatrics",
+    experience: "10 years",
+    fee: 450,
+    image: "https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&w=480&q=75",
+    description: "Provides routine pediatric consultations and child wellness care."
+  }
+];

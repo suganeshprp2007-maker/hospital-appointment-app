@@ -1,0 +1,1 @@
+import{j as e,L as n}from"./index-DL5i9BqB.js";function o(){return e.jsxs("main",{id:"main-content",className:"container",children:[e.jsx("h1",{children:"Page not found"}),e.jsx("p",{children:"The page you requested does not exist."}),e.jsx(n,{to:"/",children:"Return home"})]})}export{o as default};
