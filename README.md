@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Experiment 3: Deploy Hospital Appointment Application
 
 ## Aim
@@ -103,3 +104,7 @@ The application can be built for production and deployed to GitHub Pages, Netlif
 
 ## Limitations and security
 This is a frontend demonstration, not a production medical service. Booking records are not persisted. A real system needs a secure backend, server-side validation, authorization, HTTPS, privacy controls, and suitable handling of patient information. Do not put credentials or secret API keys in frontend code.
+=======
+# hospital-appointment-app
+just an example . I'II blow this up later
+>>>>>>> be812c4183745efe9f79b3564a75b64b1e710213
